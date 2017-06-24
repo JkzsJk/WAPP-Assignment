@@ -51,7 +51,7 @@
                 <a href="/Registration.aspx" onclick = $("#menu-close").click(); target="_blank" >Customer Registration</a>
             </li>
             <li>
-                <a href="#portfolio" onclick = $("#menu-close").click(); >Portfolio</a>
+                <a href="#portfolio" onclick = $("#menu-close").click(); >Our Brands</a>
             </li>
             <li>
                 <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
@@ -102,9 +102,9 @@
                                 <i class="fa fa-cloud fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>APIs</strong>
+                                    <strong>Cloud Storage for Customers' Data</strong>
                                 </h4>
-                                <p>ASP.NET includes ASP.NET Web API for creating rich REST-ful Web Services that return JSON, XML, or any kind of content the web supports!</p>
+                                <p>Customers' data such as login credentials, purchase history and purchase patterns are stored on the cloud. Your information can be viewed anytime & anywhere.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -117,7 +117,7 @@
                                 <h4>
                                     <strong>Real-time</strong>
                                 </h4>
-                                <p>ASP.NET SignalR is a new library for ASP.NET developers makes real-time bi-directional communication between client and server a reality. Real-time.</p>
+                                <p>We will keep our customers up to date with the latest info on our products, updates are provided in real-time to keep everyone posted so no one gets to be left behind.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                                 <h4>
                                     <strong>Mobile</strong>
                                 </h4>
-                                <p>ASP.NET can also power mobile applications with responsive design frameworks like Twitter Bootstrap included out of the box with VS2013. Mobile</p>
+                                <p>Our website can be viewed on both PCs & mobile devices. The browsing experience will be smooth as butter for our customers when they are looking through our catalogue.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -141,9 +141,9 @@
                                 <i class="fa fa-shield fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>IDE</strong>
+                                    <strong>Security</strong>
                                 </h4>
-                                <p>Visual Studio and ASP.NET include powerful tools within the IDE. We've got best-of-class HTML5, CSS3 and JavaScript editors that have the web baked in at their core.</p>
+                                <p>All of our customers' information are encrypted when they are being stored on the cloud. Your personal information is also our priority to be safeguarded against any threats.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
     <!-- Callout -->
     <aside class="callout">
         <div class="text-vertical-center">
-            <h1>ASP.NET Case Studies</h1>
+            <h1>"Shopping for gaming peripherals have never been easier." — IGN, 2017</h1>
         </div>
     </aside>
     <!-- Portfolio -->
@@ -167,34 +167,34 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Our Work</h2>
+                    <h2>Our Brands</h2>
                     <hr class="small">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                    <asp:Image ID="Image1" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-1.jpg"></asp:Image>
+                                    <asp:Image ID="Image1" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-1.png"></asp:Image>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                  <asp:Image ID="Image2" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-2.jpg"></asp:Image>                                   
+                                  <asp:Image ID="Image2" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-2.png"></asp:Image>                                   
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                     <asp:Image ID="Image3" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-3.jpg"></asp:Image>
+                                     <asp:Image ID="Image3" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-3.png"></asp:Image>
                                 </a>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="portfolio-item">
                                 <a href="#">
-                                      <asp:Image ID="Image4" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-4.jpg"></asp:Image>
+                                      <asp:Image ID="Image4" runat="server" CssClass="img-portfolio img-responsive" ImageUrl="Home.aspx Files/img/portfolio-4.png"></asp:Image>
                                 </a>
                             </div>
                         </div>
@@ -213,9 +213,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h3> Microsoft .NET Community Website Migration Case Study.</h3>
-                    <a href="#" class="btn btn-lg btn-light">Click Me!</a>
-                    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>
+                    <h3> Want to visit us? Check out our address below.</h3>
                 </div>
             </div>
         </div>
@@ -234,28 +232,28 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h4><strong>Bootstrap for dot.net developers</strong>
+                    <h4><strong>JAM'D Peripherals Sdn. Bhd.</strong>
                     </h4>
-                    <p>3481 fdskji fdsioufs<br>Berlin Hills, INDIA 90210</p>
+                    <p>Technology Park Malaysia<br>Kuala Lumpur, Wilayah Persekutuan 57000</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">name@example.com</a>
+                        <li><i class="fa fa-phone fa-fw"></i> +60 12-345 6789</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">JAMDPeripherals@jamd.com</a>
                         </li>
                     </ul>
                     <br>
                     <ul class="list-inline">
                         <li>
-                            <a href="#"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                            <a href="https://www.facebook.com/apuniversity/" target="_blank" ><i class="fa fa-facebook fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+                            <a href="https://twitter.com/asiapacificu?lang=en" target="_blank" ><i class="fa fa-twitter fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
+                            <a href="/Home.aspx"><i class="fa fa-dribbble fa-fw fa-3x"></i></a>
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2015</p>
+                    <p class="text-muted">Copyright &copy; JAM'D Peripherals Sdn. Bhd. 2017</p>
                 </div>
             </div>
         </div>
