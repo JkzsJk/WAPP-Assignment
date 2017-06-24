@@ -12,7 +12,7 @@
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="Coming soon, Bootstrap, Bootstrap 3.0, Free Coming Soon, free coming soon, free template, coming soon template, Html template, html template, html5, Code lab, codelab, codelab coming soon template, bootstrap coming soon template">
-    <title>Bootstrap Templates</title>
+    <title>Customer's Account Registration - JAM'D Peripherals</title>
     <!-- ============ Google fonts ============ -->
     <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet'
         type='text/css' />
@@ -28,7 +28,7 @@
     <div id="custom-bootstrap-menu" class="navbar navbar-default " role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">Bootstrap</a>
+                <a class="navbar-brand" href="#">JAM'D Peripherals</a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder">
                     <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span
                         class="icon-bar"></span><span class="icon-bar"></span>
@@ -48,16 +48,16 @@
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
             <div id="banner">
                 <h1>
-                    Bootstrap <strong>Registration Form</strong> for .net developers</h1>
+                    Signing up for an account on <strong>JAM'D Peripherals</strong> ?</h1>
                 <h5>
-                    <strong>aspxtemplates.com</strong></h5>
+                    <strong>You're in the right place!</strong></h5>
             </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
             <div class="registrationform">
                 <div class="form-horizontal">
                     <fieldset>
-                        <legend>Registration Form <i class="fa fa-pencil pull-right"></i></legend>
+                        <legend><strong>Customer's Account Registration</strong><br> Fill in your details below.<i class="fa fa-pencil pull-right"></i></legend>
                         <div class="form-group">
                             <asp:Label ID="Label1" runat="server" Text="Email" CssClass="col-lg-2 control-label"></asp:Label>
                             <div class="col-lg-10">
@@ -99,9 +99,15 @@
                           <asp:Label ID="Label5" runat="server" Text="Country" CssClass="col-lg-2 control-label"></asp:Label>                          
                             <div class="col-lg-10">
                                 <asp:DropDownList ID="DropDownList1" runat="server" CssClass="form-control ddl">
-                                    <asp:ListItem>INDIA</asp:ListItem>
-                                    <asp:ListItem>USA</asp:ListItem>
-                                    <asp:ListItem>UK</asp:ListItem>
+                                    <asp:ListItem>Malaysia</asp:ListItem>
+                                    <asp:ListItem>Singapore</asp:ListItem>
+                                    <asp:ListItem>Thailand</asp:ListItem>
+                                    <asp:ListItem>Vietnam</asp:ListItem>
+                                    <asp:ListItem>Philippines</asp:ListItem>
+                                    <asp:ListItem>Cambodia</asp:ListItem>
+                                    <asp:ListItem>Myannmar(Burma)</asp:ListItem>
+                                    <asp:ListItem>Laos</asp:ListItem>
+                                    <asp:ListItem>Brunei</asp:ListItem>
                                 </asp:DropDownList>                              
                             </div>
                         </div>
