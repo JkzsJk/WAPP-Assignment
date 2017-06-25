@@ -8,10 +8,10 @@
     <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
     <!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
     <!--[if IE 9]> <html class="no-js ie9 oldie" lang="en"> <![endif]-->
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <!-- Set the viewport width to device width for mobile -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="Coming soon, Bootstrap, Bootstrap 3.0, Free Coming Soon, free coming soon, free template, coming soon template, Html template, html template, html5, Code lab, codelab, codelab coming soon template, bootstrap coming soon template">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="Coming soon, Bootstrap, Bootstrap 3.0, Free Coming Soon, free coming soon, free template, coming soon template, Html template, html template, html5, Code lab, codelab, codelab coming soon template, bootstrap coming soon template" />
     <title>Customer's Account Registration - JAM'D Peripherals</title>
     <!-- ============ Google fonts ============ -->
     <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet'
