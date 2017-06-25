@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Portfolio Item - Start Bootstrap Template</title>
+    <title>Razer BlackWidow Chroma V2 - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
     <link href="Product1.aspx Files/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
@@ -38,25 +38,25 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Portfolio Item</a>
+                <a class="navbar-brand page-scroll" href="#page-top">JAM'D Peripherals</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 
-                <li class="active">
-							<a class="page-scroll" href="#home">HOME</a>
+                        <li>
+							<a href="/Home.aspx" target="_blank">HOME</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">ABOUT</a>
-						</li>
-						
-						<li>
-							<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+							<a class="page-scroll active" href="#about">ABOUT</a>
 						</li>
 						
 						<li>
-							<a class="page-scroll" href="#contact">CONTACT US</a>
+							<a class="page-scroll active" href="#portfolio">PORTFOLIO</a>
+						</li>
+						
+						<li>
+							<a class="page-scroll active" href="#contact">CONTACT US</a>
 						</li>
               </ul>
         </div>
@@ -91,13 +91,13 @@
 					<div class="col-md-6 text-center fadein scaleInv anim_2">
 						<div class="text-center">
 							<div class="fadein scaleInv anim_3">
-								<img src="Product1.aspx Files/img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig">
+								<img src="Product1.aspx Files/Razer img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig" >
 							</div>
 							<div class="fadein scaleInv anim_8">
-								<img src="Product1.aspx Files/img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig">
+								<img src="Product1.aspx Files/Razer img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig" >
 							</div>
 							<div class="fadein scaleInv anim_5">
-								<img src="Product1.aspx Files/img/slide1-2.png" alt="" class="slide1-2 animated fadeInRightBig">
+								<img src="Product1.aspx Files/Razer img/slide1-2.png" alt="" class="slide1-2 animated fadeInRightBig" >
 							</div>
 						</div>
 					</div>
@@ -109,7 +109,7 @@
 				<div class="row">
 					<div class="col-md-6 animated fadeInUp notransition">
                     <br />
-						<img src="Product1.aspx Files/img/slide1-1.png" alt="" style="width:90%;">
+						<img src="Product1.aspx Files/Razer img/slide1-1.png" alt="" style="width:90%;">
 					</div>
 					<div class="col-md-6 animated fadeInDown  notransition topspace30 text-right">
 						
@@ -143,12 +143,12 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">ABOUT US</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">Razer BlackWidow V2 Chroma</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
                    <h4><strong>
-                   Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.</strong>
+                   FEEL THE DIFFERENCE.</strong>
                    </h4>                  
                    </div>
                   <div class="container">
@@ -162,17 +162,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">UI/UX</h4>
+                            <h4 class="panel-title">Razer</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Name : Sun
+                        Product: BlackWidow Chroma V2
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        The Razer BlackWidow Chroma V2 features individually programmable backlit keys with 16.8 million color options, all easily set through Razer Synapse. From preloaded lighting effects for different types of games, to your own custom uniquely programmed palette of colors, you can effortlessly enhance your gaming experience in a way that is unique only to you.
                         </div>
                     </div>
                 </div> 
@@ -183,17 +183,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab2" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingTwo" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <h4 class="panel-title collapsed">Director</h4>
+                            <h4 class="panel-title collapsed">Features</h4>
                         </div>
                     </span>
 
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Name : Sun
+                        Available in: Razer™ Green Switch, Razer™ Orange Switch & Razer™ Yellow Switch
                         </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        Designed specifically for gaming, Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before. Razer Mechanical Switches have been lauded as the new standard for all mechanical gaming keyboards since their introduction.
                         </div>
                     </div>
                 </div>
@@ -204,17 +204,14 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab3" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingThree"  class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <h4 class="panel-title">SEO </h4>
+                            <h4 class="panel-title">Tech Specs </h4>
                         </div>
                     </span>
 
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
-                        <h4>
-                        Name : Sun
-                        </h4>
                         <!-- Tab content goes here -->
-                        That fall, as Nadia and Masha got shipped off to prison camps in Siberia, South Brooklyn tried to recover from the storm. My dad and I spent a lot of time in the same apartment engrossed in separate laptops, separate internet missives. He followed Russian news bloggers closely and would update me on troubling developments. A rise in protofascist nationalism
+                        	• Razer™ Mechanical Switches with 50g actuation force. <br /> • 80 million keystroke life span. <br /> • 10 key roll-over anti-ghosting. <br /> • 5 additional dedicated macro keys. <br /> • Braided fiber cable.
                         </div>
                         </div>
                       </div>
@@ -269,7 +266,7 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="Product1.aspx Files/img/700.jpg" alt="">
+                <img class="img-responsive" src="Product1.aspx Files/Razer img/700.jpg" alt="">
             </div>
 
             <div class="col-md-4">
@@ -379,7 +376,7 @@
                 </div>
                 <div class="col-md-8">
                     <ul class="footermenu pull-right">
-                        <li><a href="#">Home</a></li>
+                        <li><a href="/Home.aspx">Home</a></li>
                         <li><a href="#">Product</a></li>
                         <li><a href="#">Gallery</a></li>
                         <li><a href="#">Contact</a></li>
