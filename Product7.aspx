@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Razer BlackWidow Chroma V2 - JAM'D Peripherals</title>
+    <title>Steelseries Nimbus Wireless Controller - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
-    <link href="Product1.aspx Files/Razer img/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product7 img/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
-    <link href="Product1.aspx Files/Razer img/portfolio-item.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/animated.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product7 img/portfolio-item.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product7 img/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product7 img/animated.css" rel="stylesheet" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700'
         rel='stylesheet' type='text/css' />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -79,11 +79,11 @@
 					<div class="col-md-6 fadein scaleInv anim_1">
                     <br />
 						<div class="fadein scaleInv anim_2">
-							<h1 class="carouselText1 animated fadeInLeftBig">ERGONOMIC WRIST REST  <span class="colortext">FOR EXTENDED GAMING COMFORT.</span></h1>
+							<h1 class="carouselText1 animated fadeInLeftBig">ERGONOMIC CONTROLLER DESIGN  <span class="colortext">FOR BETTER CONTROLLER GRAB.</span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeftBig">
-								Unleash the true potential of your keyboard's lighting system with the Advanced Chroma Configurator.
+								The free companion app gives you instant access to charts listing the top free and paid controller-enabled games. The best new games are just a click away!
 							</p>
 						</div>							
 						
@@ -91,14 +91,12 @@
 					<div class="col-md-6 text-center fadein scaleInv anim_2">
 						<div class="text-center">
 							<div class="fadein scaleInv anim_3">
-								<img src="Product1.aspx Files/Razer img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product7 img/slide1-1.jpg" alt="" class="slide1-3 animated fadeInRightBig" >
 							</div>
 							<div class="fadein scaleInv anim_8">
-								<img src="Product1.aspx Files/Razer img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product7 img/slide1-1.jpg" alt="" class="slide1-1 animated fadeInRightBig" >
 							</div>
-							<div class="fadein scaleInv anim_5">
-								<img src="Product1.aspx Files/Razer img/slide1-2.png" alt="" class="slide1-2 animated fadeInRightBig" >
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -109,7 +107,7 @@
 				<div class="row">
 					<div class="col-md-6 animated fadeInUp notransition">
                     <br />
-						<img src="Product1.aspx Files/Razer img/slide1-4.png" alt="" style="width:90%;">
+						<img src="Product1.aspx Files/Product7 img/slide1-2.png" alt="" style="width:90%;">
 					</div>
 					<div class="col-md-6 animated fadeInDown  notransition topspace30 text-right">
 						
@@ -117,15 +115,15 @@
 						<br>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 • PC or Mac with a free USB port.
+							 • New gaming experience.
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							• 80 million keystroke life span.
+							• Rechargeable 40+ Hours of Battery Life
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
-							 • Razer Synapse enabled.
+							 • Compatible with all ios devices.
 						</div>
 					</div>
 				</div>
@@ -142,7 +140,7 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">Razer BlackWidow V2 Chroma</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">Steelseries Nimbus</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
@@ -161,17 +159,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Razer</h4>
+                            <h4 class="panel-title">Steelseries</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Product: BlackWidow Chroma V2
+                        Product: Steelseries Nimbus
                         </h4>
                         <!-- Tab content goes here -->
-                        The Razer BlackWidow Chroma V2 features individually programmable backlit keys with 16.8 million color options, all easily set through Razer Synapse. From preloaded lighting effects for different types of games, to your own custom uniquely programmed palette of colors, you can effortlessly enhance your gaming experience in a way that is unique only to you.
+                        The Nimbus Wireless is a full-sized wireless controller, compatible with Apple TV and many other Apple devices. With an ergonomic shape and familiar button placement, it's simple to jump right into your favorite games.
                         </div>
                     </div>
                 </div> 
@@ -189,10 +187,10 @@
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Available in: Razer™ Green Switch, Razer™ Orange Switch & Razer™ Yellow Switch
+                        Hundreds Of Games
                         </h4>
                         <!-- Tab content goes here -->
-                        Designed specifically for gaming, Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before. Razer Mechanical Switches have been lauded as the new standard for all mechanical gaming keyboards since their introduction.
+                        Use your Nimbus controller to play hundreds of games on all your iOS devices, including the new Apple TV. With the most popular games for every genre, you'll have full control of your favorite games.
                         </div>
                     </div>
                 </div>
@@ -210,7 +208,7 @@
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <!-- Tab content goes here -->
-                        	• Razer™ Mechanical Switches with 50g actuation force. <br /> • 80 million keystroke life span. <br /> • 10 key roll-over anti-ghosting. <br /> • 5 additional dedicated macro keys. <br /> • Braided fiber cable.
+                        	• Pressure Sensitive Buttons <br /> • Menu Button For Instant Navigation. <br /> • Rechargeable 40+ Hours of Battery Life. <br /> • Lightning Connector. <br /> • Bluetooth 4.1.
                         </div>
                         </div>
                       </div>
@@ -228,16 +226,16 @@
                         <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                        <img src="Product1.aspx Files/Razer img/tab1.png" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product7 img/tab1.jpg" alt="tab1" class="img img-responsive">
                                 </div>
                                 <div class="tab-pane " id="tab2">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab2.jpg">
+                                        <img src="Product1.aspx Files/Product7 img/tab3.jpg">
                                     
                                 </div>
                                 <div class="tab-pane fade" id="tab3">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab3.jpg" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product7 img/tab2.jpg" alt="tab1" class="img img-responsive">
                                 </div>
                             </div>
                         </div>
@@ -265,16 +263,16 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="Product1.aspx Files/Razer img/700.jpg" alt="">
+                <img class="img-responsive" src="Product1.aspx Files/Product7 img/700.jpg" alt="">
             </div>
 
             <div class="col-md-4">
-                <h3>Razer's BlackWidow Chroma V2</h3>
-                <p> <strong>Razer Mechanical Switches: </strong>Rigorously tested by eSports athletes under the most demanding conditions, Razer Mechanical Switches are perfectly tuned to the specific needs of gamers. Featuring optimized actuation points and a durability that surpasses the competition, these impressive switches enable you to execute your commands faster than before, for even longer.</p>
+                <h3>Steelseries's Nimbus Wireless Controller</h3>
+                <p> <strong>Nimbus Companion App </strong>The free companion app gives you instant access to charts listing the top free and paid controller-enabled games. The best new games are just a click away!</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM339</h4></li>
-                     <a href="#"><img src="Product1.aspx Files/Razer img/BUY NOW.png" alt=""></a>
+                    <li><h4>RM160</h4></li>
+                     <a href="#"><img src="Product1.aspx Files/Product7 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
 
@@ -289,22 +287,22 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g1.jpg"" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product7 img/g1.png"" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g2.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product7 img/g2.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g3.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product7 img/g3.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g4.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product7 img/g4.png" alt="">
                 </a>
             </div>
 
