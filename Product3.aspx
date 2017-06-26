@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Sensei RAW Illuminated 7-Button Laser Gaming Mouse - JAM'D Peripherals</title>
+    <title>HERMES RGB Mechanical Gaming Keyboard - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
     <link href="Product1.aspx Files/Product3 img/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
@@ -116,15 +116,15 @@
 						<br>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 • Ambidextrous Design.
+							 • GAMDIAS Certified Mechanical Switches.
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							• Metal Non-Slip Coating.
+							• Ready to game.
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
-							 • 30 Million click switches.
+							 • HERA Customization.
 						</div>
 					</div>
 				</div>
@@ -141,12 +141,12 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">Sensei RAW Illuminated 7-Button Laser Gaming Mouse</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">HERMES RGB Mechanical Gaming Keyboard</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
                    <h4><strong>
-                   Control CPI, programmable buttons, LED intensity, lighting modes and more in SteelSeries Engine 3.</strong>
+                   Offers extreme customization options, robust features and durable design. It surely takes users gaming experience to next level.</strong>
                    </h4>                  
                    </div>
                   <div class="container">
@@ -160,17 +160,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Steelseries</h4>
+                            <h4 class="panel-title">GAMDIAS</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Product: Sensei RAW Illuminated Gaming Mouse
+                        Product: HERMES RGB Gaming Keyboard
                         </h4>
                         <!-- Tab content goes here -->
-                        To ensure the Sensei Raw met the rigorous standards of eSports players, we asked the pros themselves. SteelSeries worked hand-in-hand professional gamers to make a ambidextrous laser mouse perfectly suited for tournament-level play.
+                        GAMDIAS certified mechanical switches are engineered to deliver quick gaming response and 50 million keystrokes for long lasting durability. N key rollover, 100% anti-ghosting and 2 dedicated marco keys with 6 profiles upto 12 settings are essential to victory.
                         </div>
                     </div>
                 </div> 
@@ -188,10 +188,10 @@
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Available in: Soft Touch & Glossy Black
+                        16.8 million Colours: Lighting Adventure
                         </h4>
                         <!-- Tab content goes here -->
-                        The SteelSeries Sensei RAW is the performance edition of the award-winning Sensei. It features an ambidextrous design, white illumination, and 7 programmable macro buttons. With SteelSeries Engine, gamers can take full control over the Sensei's performance. Customize and remap all 7 buttons, and adjust the CPI.
+                        Built with latest 32bit gaming keyboard microprocessor, HERMES RGB is equipped with 16.8 million customizable color backlighting with 13 pre-set lighting effect modes. You can easily enhance your gaming experience with unique way.
                         </div>
                     </div>
                 </div>
@@ -209,7 +209,7 @@
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <!-- Tab content goes here -->
-                        	• SteelSeries Engine 3 Compatible. <br /> • Brilliant white illumination. <br /> • Metal Non-Slip Coating. <br /> • Ambidextrous Design.
+                        	• Blue Switch Key Type. <br /> • 6 Multimedia Keys. <br /> • 32bit ARM® CortexTM-M3 microprocessor. <br /> • Customizable Lighting Effects.
                         </div>
                         </div>
                       </div>
@@ -256,7 +256,7 @@
     <section id="portfolio">
     <div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading">Professional gaming gear. </h2>					
+					<h2 class="section-heading">Gaming art in motion! </h2>					
 					<hr>
                     </div>
                     </div>
@@ -264,15 +264,15 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="Product1.aspx Files/Product3 img/700.jpg" alt="">
+                <img class="img-responsive" src="Product1.aspx Files/Product3 img/700.png" alt="">
             </div>
 
             <div class="col-md-4">
-                <h3>Steelseries' Sensei RAW Illuminated Gaming Mouse</h3>
-                <p> <strong>The Sensei[RAW] is the perfect gaming mouse for gamers who want a top tier laser sensor, ambidextrous design, and eight programmable buttons. It features a braided cable as well.</p>
+                <h3>GAMDIAS' HERMES RGB Gaming Keyboard</h3>
+                <p> <strong>Premium Micro-Processor 4-Layer structure–the traditional backlit membrane keyboard has only a 3-layer structure. Ares adds one more layer to enhance the robustness. 16.8 million-color backlighting, 6 brightness levels and adjustable breathing frequency are available via the hera application. The ALL-Keys lock mode enables you to leave your keyboard unattended while in-game or out. This function alleviates the worry of unwanted keyboard activity while you are afk. Spill resistant design–4 drainage holes at the bottom help channel liquid away in case of accidental spills game mode–have you ever pressed the ‘Windows’ key by mistake during the excitement of game play? enable the game mode to easily disable the Windows key so that you will no longer be interrupted during the game.</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM99</h4></li>
+                    <li><h4>RM299</h4></li>
                      <a href="#"><img src="Product1.aspx Files/Product3 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>

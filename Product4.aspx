@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Sensei RAW Illuminated 7-Button Laser Gaming Mouse - JAM'D Peripherals</title>
+    <title>Logitech G G29 Driving Force Game Steering Wheel - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
     <link href="Product1.aspx Files/Product4 img/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
@@ -116,15 +116,15 @@
 						<br>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 • Ambidextrous Design.
+							 • Driving Force.
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							• Metal Non-Slip Coating.
+							• Racing Wheel for PS3 & PS4.
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
-							 • 30 Million click switches.
+							 • Enhance your console experience.
 						</div>
 					</div>
 				</div>
@@ -141,7 +141,7 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">Sensei RAW Illuminated 7-Button Laser Gaming Mouse</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">Logitech G G29 Driving Force Steering Wheel</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
@@ -160,17 +160,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Steelseries</h4>
+                            <h4 class="panel-title">Logitech</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Product: Sensei RAW Illuminated Gaming Mouse
+                        Product: Logitech G G29 Driving Force
                         </h4>
                         <!-- Tab content goes here -->
-                        To ensure the Sensei Raw met the rigorous standards of eSports players, we asked the pros themselves. SteelSeries worked hand-in-hand professional gamers to make a ambidextrous laser mouse perfectly suited for tournament-level play.
+                        You will never want to race with a regular controller again after you add Driving Force to your controller selection. G29 game steering wheel is designed for the latest racing games for your PlayStation®4 or PlayStation®3 console. G29 Driving Force also works on your PC using Logitech Gaming Software.
                         </div>
                     </div>
                 </div> 
@@ -188,10 +188,10 @@
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Available in: Soft Touch & Glossy Black
+                        Feedback: Dual Motor Force
                         </h4>
                         <!-- Tab content goes here -->
-                        The SteelSeries Sensei RAW is the performance edition of the award-winning Sensei. It features an ambidextrous design, white illumination, and 7 programmable macro buttons. With SteelSeries Engine, gamers can take full control over the Sensei's performance. Customize and remap all 7 buttons, and adjust the CPI.
+                        Driving Force handles the stress of racing action and is built for long-lasting reliability. G29 has solid steel ball bearings in the wheel shaft and stainless steel paddle shifters and pedals. The race wheel is covered in high-quality, hand-stitched leather, giving it the look and feel of a high-performance racecar wheel and giving you a more comfortable, durable experience.
                         </div>
                     </div>
                 </div>
@@ -209,7 +209,7 @@
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <!-- Tab content goes here -->
-                        	• SteelSeries Engine 3 Compatible. <br /> • Brilliant white illumination. <br /> • Metal Non-Slip Coating. <br /> • Ambidextrous Design.
+                        	• 900 Degrees Lock-to-Lock Rotation. <br /> • Overheat Safeguard. <br /> • Self-Calibration. <br /> • Anodized aluminum.
                         </div>
                         </div>
                       </div>
@@ -256,7 +256,7 @@
     <section id="portfolio">
     <div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading">Professional gaming gear. </h2>					
+					<h2 class="section-heading">Built for eSports! </h2>					
 					<hr>
                     </div>
                     </div>
@@ -268,11 +268,11 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Steelseries' Sensei RAW Illuminated Gaming Mouse</h3>
-                <p> <strong>The Sensei[RAW] is the perfect gaming mouse for gamers who want a top tier laser sensor, ambidextrous design, and eight programmable buttons. It features a braided cable as well.</p>
+                <h3>Logitech G's G29 Driving Force Game Steering Wheel</h3>
+                <p> <strong>You get an exceptionally smooth, quiet steering action. Helical gears are modeled after gears used in automotive transmissions to reduce unwanted noise and vibration. Anti-backlash keeps the wheel and pedals tight, maximizing your control. G29 Driving Force Racing Wheel features a long lasting, reliable hall-effect steering sensor, using magnetic fields to sense the position of the wheel.</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM99</h4></li>
+                    <li><h4>RM529</h4></li>
                      <a href="#"><img src="Product1.aspx Files/Product4 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
