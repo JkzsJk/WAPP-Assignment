@@ -268,11 +268,11 @@
             </div>
 
             <div class="col-md-4">
-                <h3>Razer's BlackWidow Chroma V2</h3>
-                <p> <strong>Razer Mechanical Switches: </strong>Rigorously tested by eSports athletes under the most demanding conditions, Razer Mechanical Switches are perfectly tuned to the specific needs of gamers. Featuring optimized actuation points and a durability that surpasses the competition, these impressive switches enable you to execute your commands faster than before, for even longer.</p>
+                <h3>Steelseries' Sensei RAW Illuminated Gaming Mouse</h3>
+                <p> <strong>The Sensei[RAW] is the perfect gaming mouse for gamers who want a top tier laser sensor, ambidextrous design, and eight programmable buttons. It features a braided cable as well.</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM339</h4></li>
+                    <li><h4>RM99</h4></li>
                      <a href="#"><img src="Product1.aspx Files/Product2 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
@@ -288,7 +288,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product2 img/g1.jpg"" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product2 img/g1.png"" alt="">
                 </a>
             </div>
 
@@ -298,7 +298,7 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product2 img/g3.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product2 img/g3.png" alt="">
                 </a>
             </div>
 
