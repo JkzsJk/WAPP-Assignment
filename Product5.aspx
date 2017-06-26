@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Razer BlackWidow Chroma V2 - JAM'D Peripherals</title>
+    <title>SteelSeries Siberia 350 - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
-    <link href="Product1.aspx Files/Razer img/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product5 img/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
-    <link href="Product1.aspx Files/Razer img/portfolio-item.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/animated.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product5 img/portfolio-item.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product5 img/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product5 img/animated.css" rel="stylesheet" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700'
         rel='stylesheet' type='text/css' />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -91,14 +91,12 @@
 					<div class="col-md-6 text-center fadein scaleInv anim_2">
 						<div class="text-center">
 							<div class="fadein scaleInv anim_3">
-								<img src="Product1.aspx Files/Razer img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product5 img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig" >
 							</div>
 							<div class="fadein scaleInv anim_8">
-								<img src="Product1.aspx Files/Razer img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product5 img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig" >
 							</div>
-							<div class="fadein scaleInv anim_5">
-								<img src="Product1.aspx Files/Razer img/slide1-2.png" alt="" class="slide1-2 animated fadeInRightBig" >
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -109,23 +107,24 @@
 				<div class="row">
 					<div class="col-md-6 animated fadeInUp notransition">
                     <br />
-						<img src="Product1.aspx Files/Razer img/slide1-4.png" alt="" style="width:90%;">
+						<img src="Product1.aspx Files/Product5 img/slide1-4.png" alt="" style="width:90%;">
 					</div>
+
 					<div class="col-md-6 animated fadeInDown  notransition topspace30 text-right">
 						
 						<br>
 						<br>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 • PC or Mac with a free USB port.
+							 • DTS Headphone:X 7.1
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							• 80 million keystroke life span.
+							• Soundscape crafted for pro gaming
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
-							 • Razer Synapse enabled.
+							 • Prism RGB Illumination
 						</div>
 					</div>
 				</div>
@@ -142,7 +141,7 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">Razer BlackWidow V2 Chroma</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">SteelSeries Siberia 350</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
@@ -161,17 +160,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Razer</h4>
+                            <h4 class="panel-title">SteelSeries</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Product: BlackWidow Chroma V2
+                        Product: Steelseries Siberia 350  
                         </h4>
                         <!-- Tab content goes here -->
-                        The Razer BlackWidow Chroma V2 features individually programmable backlit keys with 16.8 million color options, all easily set through Razer Synapse. From preloaded lighting effects for different types of games, to your own custom uniquely programmed palette of colors, you can effortlessly enhance your gaming experience in a way that is unique only to you.
+                        The Steelseries Siberia 350 features suspension headband makes its return in the Siberia 350. This design offers an ideal, lightweight, self-adjusting fit. Just place it around your ears and the headset adjusts to the perfect fit.
                         </div>
                     </div>
                 </div> 
@@ -189,10 +188,10 @@
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Available in: Razer™ Green Switch, Razer™ Orange Switch & Razer™ Yellow Switch
+                        Prism RGB Illumination
                         </h4>
                         <!-- Tab content goes here -->
-                        Designed specifically for gaming, Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before. Razer Mechanical Switches have been lauded as the new standard for all mechanical gaming keyboards since their introduction.
+                        Get the most out of your Siberia 350 with SteelSeries Engine 3. Take control of the illumination settings, manage an unlimited number of gaming profiles, and personalize the detailed 5-band equalizer to get the right sound for every game you play.
                         </div>
                     </div>
                 </div>
@@ -210,7 +209,7 @@
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <!-- Tab content goes here -->
-                        	• Razer™ Mechanical Switches with 50g actuation force. <br /> • 80 million keystroke life span. <br /> • 10 key roll-over anti-ghosting. <br /> • 5 additional dedicated macro keys. <br /> • Braided fiber cable.
+                        	• DTS Headphone:X 7.1 <br /> • Soundscape crafted for pro gaming. <br /> • Crystal-clear retractable mic. <br /> • 50mm Neodymium Drivers Speaker Driver. <br /> • USB soundcard, Dolby 7.1 Surround.
                         </div>
                         </div>
                       </div>
@@ -228,16 +227,16 @@
                         <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                        <img src="Product1.aspx Files/Razer img/tab1.png" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product5 img/tab1.jpg" alt="tab1" class="img img-responsive">
                                 </div>
                                 <div class="tab-pane " id="tab2">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab2.jpg">
+                                        <img src="Product1.aspx Files/Product5 img/tab2.jpg">
                                     
                                 </div>
                                 <div class="tab-pane fade" id="tab3">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab3.jpg" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product5 img/tab3.jpg" alt="tab1" class="img img-responsive">
                                 </div>
                             </div>
                         </div>
@@ -265,16 +264,16 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="Product1.aspx Files/Razer img/700.jpg" alt="">
+                <img class="img-responsive" src="Product1.aspx Files/Product5 img/700.png" alt="">
             </div>
 
             <div class="col-md-4">
-                <h3>Razer's BlackWidow Chroma V2</h3>
-                <p> <strong>Razer Mechanical Switches: </strong>Rigorously tested by eSports athletes under the most demanding conditions, Razer Mechanical Switches are perfectly tuned to the specific needs of gamers. Featuring optimized actuation points and a durability that surpasses the competition, these impressive switches enable you to execute your commands faster than before, for even longer.</p>
+                <h3>SteelSeries's Siberia 350 Headset</h3>
+                <p> <strong>Audio Reimagined: </strong>The Siberia 350 perfectly reproduces in-game audio so you hear every bullet, spell, footstep and environmental cue exactly as the game developers intended.</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM339</h4></li>
-                     <a href="#"><img src="Product1.aspx Files/Razer img/BUY NOW.png" alt=""></a>
+                    <li><h4>RM450</h4></li>
+                     <a href="#"><img src="Product1.aspx Files/Product5 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
 
@@ -289,22 +288,22 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g1.jpg"" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product5 img/g1.png"" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g2.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product5 img/g2.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g3.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product5 img/g3.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g4.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product5 img/g4.png" alt="">
                 </a>
             </div>
 
