@@ -14,11 +14,6 @@ public partial class Registration : System.Web.UI.Page
 
     }
 
-    protected void btnSubmit_Click(object sender, EventArgs e)
-    {
-        
-    }
-
 
     protected void btnSubmit_Click1(object sender, EventArgs e)
     {
@@ -35,7 +30,7 @@ public partial class Registration : System.Web.UI.Page
             }
             else
             {
-                string query1 = "insert into Users (Username, Email, Password, Address, Gender, Country, Position) values (@username,@email,@password,@address,@gender,@country,@position) ";
+                string query1 = "insert into Users (Username, Email, Password, Address, Gender, Country, Position) values (@username,@email,@password,@address,@gender,@country,@Position) ";
                 SqlCommand cmd1 = new SqlCommand(query1, con);
                 cmd1.Parameters.AddWithValue("@username", TextBox4.Text);
                 cmd1.Parameters.AddWithValue("@email", TextBox1.Text);
