@@ -59,6 +59,12 @@
                     <fieldset>
                         <legend><strong>Customer's Account Registration</strong><br> Fill in your details below.<i class="fa fa-pencil pull-right"></i></legend>
                         <div class="form-group">
+                            <asp:Label ID="Label6" runat="server" Text="Username" CssClass="col-lg-2 control-label"></asp:Label>
+                            <div class="col-lg-10">
+                                <asp:TextBox ID="TextBox4" runat="server" placeholder="Username" CssClass="form-control"></asp:TextBox>
+                            </div>
+                        </div>
+                        <div class="form-group">
                             <asp:Label ID="Label1" runat="server" Text="Email" CssClass="col-lg-2 control-label"></asp:Label>
                             <div class="col-lg-10">
                                 <asp:TextBox ID="TextBox1" runat="server" placeholder="Email" CssClass="form-control"></asp:TextBox>
@@ -113,8 +119,8 @@
                         </div>
                         <div class="form-group">
                             <div class="col-lg-10 col-lg-offset-2">
-                                <asp:Button ID="btnSubmit" runat="server" CssClass="btn btn-primary" Text="Submit" />
-                                  <asp:Button ID="btnCancel" runat="server" CssClass="btn btn-warning" Text="Cancel" />                              
+                                <asp:Button ID="btnSubmit" runat="server" CssClass="btn btn-primary" Text="Submit" OnClick="btnSubmit_Click1" />
+                                  <asp:Button ID="btnCancel" runat="server" CssClass="btn btn-warning" Text="Cancel" OnClick="btnCancel_Click" />                              
                             </div>
                         </div>
                     </fieldset>
@@ -146,6 +152,7 @@
         }
     );
     </script>
+                                <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:userdatabase %>" SelectCommand="SELECT * FROM [Users]"></asp:SqlDataSource>
     </form>
 </body>
 </html>
