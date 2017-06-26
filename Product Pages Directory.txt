@@ -1,0 +1,23 @@
+Product1.aspx = Razer BlackWidow Chrome V2
+Images folder = Product1.aspx Files\Razer img
+
+Product2.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product3.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product4.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product5.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product6.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product7.aspx = 
+Images folder = Product1.aspx Files\...
+
+Product8.aspx = 
+Images folder = Product1.aspx Files\...
