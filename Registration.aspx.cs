@@ -35,7 +35,7 @@ public partial class Registration : System.Web.UI.Page
             }
             else
             {
-                string query1 = "insert into Users (Username, Email, Password, Address, Gender, Country) values (@username,@email,@password,@address,@gender,@country) ";
+                string query1 = "insert into Users (Username, Email, Password, Address, Gender, Country, Position) values (@username,@email,@password,@address,@gender,@country,@position) ";
                 SqlCommand cmd1 = new SqlCommand(query1, con);
                 cmd1.Parameters.AddWithValue("@username", TextBox4.Text);
                 cmd1.Parameters.AddWithValue("@email", TextBox1.Text);
@@ -43,6 +43,7 @@ public partial class Registration : System.Web.UI.Page
                 cmd1.Parameters.AddWithValue("@address", TextBox3.Text);
                 cmd1.Parameters.AddWithValue("@gender", RadioButtonList1.SelectedValue);
                 cmd1.Parameters.AddWithValue("@country", DropDownList1.SelectedItem.ToString());
+                cmd1.Parameters["@Position"].Value = "Customer";
                 cmd1.ExecuteNonQuery();
                 Response.Redirect("Home.aspx");
             }
