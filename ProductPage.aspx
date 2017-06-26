@@ -194,11 +194,11 @@
                         <h4>
                             Categories</h4>
                         <ul class="categories">
-                            <li><a href="#">Music & Films</a></li>
-                            <li><a href="#">Home Decoration</a></li>
-                            <li><a href="#">Food & Health</a></li>
-                            <li><a href="#">Lifestyle Green</a></li>
-                            <li><a href="#">Future Technology</a></li>
+                            <li><a href="#">Headset/ Headphone</a></li>
+                            <li><a href="#">Mousepad</a></li>
+                            <li><a href="#">Speaker</a></li>
+                            <li><a href="#">Gaming Controller</a></li>
+                            <li><a href="#">Keyboard</a></li>
                         </ul>
                     </div>
                     <div class="wowwidget">
@@ -435,36 +435,33 @@
             <div class="row">
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="ProductPage.aspx Files/img/headset.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Headset/ Headphone</a>
                     </h3>
                     <p>
-                        So whether you are shopping for your wife’s birthday gift or looking for a new suit
-                        to wear for that important meeting you know what to do.</p>
+                        What is more excited to have a high quality gaming headset/ headphone while playing games? Great gaming experience like real life environment if you have a nice quality headset.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/Mousepad.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Mousepad</a>
                     </h3>
                     <p>
-                        So whether you are shopping for your wife’s birthday gift or looking for a new suit
-                        to wear for that important meeting you know what to do.</p>
+                        Designed to provide a smooth, consistent, and durable surface, cloth mouse pads are highly preferred by gamers requiring pin-point accuracy with little friction. Most FPS professionals prefer large cloth surfaces, as they make large sweeping motions with low DPI mice.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/speaker.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Speaker</a>
                     </h3>
                     <p>
-                        So whether you are shopping for your wife’s birthday gift or looking for a new suit
-                        to wear for that important meeting you know what to do.</p>
+                        Easily one of the most popular 2.1 speaker systems available, the Cyber Acoustics is a solid choice for PC gaming. The included control pod makes it easy to make volume adjustments and the speakers produce balanced sound.</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -472,25 +469,23 @@
             <div class="row">
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/controller.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Gaming Controller</a>
                     </h3>
                     <p>
-                        So whether you are shopping for your wife’s birthday gift or looking for a new suit
-                        to wear for that important meeting you know what to do.</p>
+                       Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/keyboard.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Keyboard</a>
                     </h3>
                     <p>
-                        So whether you are shopping for your wife’s birthday gift or looking for a new suit
-                        to wear for that important meeting you know what to do.</p>
+                        A gaming keypad is a small, auxiliary keyboard designed only for gaming. It has a limited number of the original keys from a standard keyboard, and they are arranged in a more ergonomic fashion to facilitate quick and efficient gaming key presses. The commonly used keys for gaming on a computer are the 'W', 'A', 'S', 'D', and the keys close and adjacent to these keys.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
