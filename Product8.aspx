@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Razer BlackWidow Chroma V2 - JAM'D Peripherals</title>
+    <title>Cyber Acoustics CA-3908 Satellite Speaker - JAM'D Peripherals</title>
     <!-- Bootstrap Core CSS -->
-    <link href="Product1.aspx Files/Razer img/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product8 img/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- Custom CSS -->
-    <link href="Product1.aspx Files/Razer img/portfolio-item.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="Product1.aspx Files/Razer img/animated.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product8 img/portfolio-item.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product8 img/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="Product1.aspx Files/Product8 img/animated.css" rel="stylesheet" type="text/css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700'
         rel='stylesheet' type='text/css' />
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -79,11 +79,11 @@
 					<div class="col-md-6 fadein scaleInv anim_1">
                     <br />
 						<div class="fadein scaleInv anim_2">
-							<h1 class="carouselText1 animated fadeInLeftBig">ERGONOMIC WRIST REST  <span class="colortext">FOR EXTENDED GAMING COMFORT.</span></h1>
+							<h1 class="carouselText1 animated fadeInLeftBig">POWERFUL SUBWOOFER  <span class="colortext">SATELLITE SPEAKER.</span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeftBig">
-								Unleash the true potential of your keyboard's lighting system with the Advanced Chroma Configurator.
+								The CA-3908 is the perfect speaker system for gamers and movie watchers. The burly subwoofer will blast you out of your seat, and the finely tuned satellite speakers keep everything even and crisp.
 							</p>
 						</div>							
 						
@@ -91,14 +91,12 @@
 					<div class="col-md-6 text-center fadein scaleInv anim_2">
 						<div class="text-center">
 							<div class="fadein scaleInv anim_3">
-								<img src="Product1.aspx Files/Razer img/slide1-3.png" alt="" class="slide1-3 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product8 img/slide1-2.png" alt="" class="slide1-3 animated fadeInRightBig" >
 							</div>
 							<div class="fadein scaleInv anim_8">
-								<img src="Product1.aspx Files/Razer img/slide1-1.png" alt="" class="slide1-1 animated fadeInRightBig" >
+								<img src="Product1.aspx Files/Product8 img/slide1-3.png" alt="" class="slide1-1 animated fadeInRightBig" >
 							</div>
-							<div class="fadein scaleInv anim_5">
-								<img src="Product1.aspx Files/Razer img/slide1-2.png" alt="" class="slide1-2 animated fadeInRightBig" >
-							</div>
+							
 						</div>
 					</div>
 				</div>
@@ -109,7 +107,7 @@
 				<div class="row">
 					<div class="col-md-6 animated fadeInUp notransition">
                     <br />
-						<img src="Product1.aspx Files/Razer img/slide1-4.png" alt="" style="width:90%;">
+						<img src="Product1.aspx Files/Product8 img/slide1-1.png" alt="" style="width:90%;">
 					</div>
 					<div class="col-md-6 animated fadeInDown  notransition topspace30 text-right">
 						
@@ -117,15 +115,15 @@
 						<br>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 • PC or Mac with a free USB port.
+							 • Headphone output jack.
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							• 80 million keystroke life span.
+							• Magnetically-shielded satellite speakers.
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
-							 • Razer Synapse enabled.
+							 • Removeable cloth grills on satellites.
 						</div>
 					</div>
 				</div>
@@ -142,7 +140,7 @@
     <section id="about">
 			<div class="container">
 				<div class="heading-center">
-					<h2 class="section-heading animated fadeInLeftBig">Razer BlackWidow V2 Chroma</h2>					
+					<h2 class="section-heading animated fadeInLeftBig">Cyber Acoustics CA-3908</h2>					
 					<hr class="animated fadeInRightBig">
 
                    <div class="well">
@@ -161,17 +159,17 @@
                     <!--wrap panel heading in span to trigger image change as well as collapse -->
                     <span class="side-tab" data-target="#tab1" data-toggle="tab" role="tab" aria-expanded="false">
                         <div class="panel-heading" role="tab" id="headingOne"data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">Razer</h4>
+                            <h4 class="panel-title">Cyber Acoustics</h4>
                         </div>
                     </span>
                     
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
                         <h4>
-                        Product: BlackWidow Chroma V2
+                        Product: Cyber Acoustics Satellite Speaker
                         </h4>
                         <!-- Tab content goes here -->
-                        The Razer BlackWidow Chroma V2 features individually programmable backlit keys with 16.8 million color options, all easily set through Razer Synapse. From preloaded lighting effects for different types of games, to your own custom uniquely programmed palette of colors, you can effortlessly enhance your gaming experience in a way that is unique only to you.
+                        Our largest 6.5-inch Power Pro Series driver and tuned port simply deliver the best sound quality. This subwoofer delivers maximum punch that fills any room.
                         </div>
                     </div>
                 </div> 
@@ -189,10 +187,10 @@
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                          <div class="panel-body">
                         <h4>
-                        Available in: Razer™ Green Switch, Razer™ Orange Switch & Razer™ Yellow Switch
+                        Our Most Powerful Speaker System
                         </h4>
                         <!-- Tab content goes here -->
-                        Designed specifically for gaming, Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before. Razer Mechanical Switches have been lauded as the new standard for all mechanical gaming keyboards since their introduction.
+                        This booming 2.1 speaker system is perfect for movie watching, music listening, and gaming. It delivers a dominating 92 watts of peak power (42W RMS) of complete immersive audio.
                         </div>
                     </div>
                 </div>
@@ -210,7 +208,7 @@
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body">
                         <!-- Tab content goes here -->
-                        	• Razer™ Mechanical Switches with 50g actuation force. <br /> • 80 million keystroke life span. <br /> • 10 key roll-over anti-ghosting. <br /> • 5 additional dedicated macro keys. <br /> • Braided fiber cable.
+                        	•  3 piece stereo speaker system includes a thunderous 6.5. <br /> • Dual 2” active drivers plus a passive radiator per satellite deliver strong articulate mids and highs, each with removable cloth grills. <br /> • Convenient desktop control pod. <br /> • Computer speakers with 92 watts peak power - . <br /> • 2 X 2 in. high efficiency drivers with passive radiator.
                         </div>
                         </div>
                       </div>
@@ -228,16 +226,16 @@
                         <div class="tab-featured-image">
                             <div class="tab-content">
                                 <div class="tab-pane  in active" id="tab1">
-                                        <img src="Product1.aspx Files/Razer img/tab1.png" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product8 img/tab1.jpeg" alt="tab1" class="img img-responsive">
                                 </div>
                                 <div class="tab-pane " id="tab2">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab2.jpg">
+                                        <img src="Product1.aspx Files/Product8 img/tab2.jpg">
                                     
                                 </div>
                                 <div class="tab-pane fade" id="tab3">
                                     
-                                        <img src="Product1.aspx Files/Razer img/tab3.jpg" alt="tab1" class="img img-responsive">
+                                        <img src="Product1.aspx Files/Product8 img/tab3.jpg" alt="tab1" class="img img-responsive">
                                 </div>
                             </div>
                         </div>
@@ -265,16 +263,16 @@
         <div class="row">
 
             <div class="col-md-8">
-                <img class="img-responsive" src="Product1.aspx Files/Razer img/700.jpg" alt="">
+                <img class="img-responsive" src="Product1.aspx Files/Product8 img/700.jpg" alt="">
             </div>
 
             <div class="col-md-4">
-                <h3>Razer's BlackWidow Chroma V2</h3>
-                <p> <strong>Razer Mechanical Switches: </strong>Rigorously tested by eSports athletes under the most demanding conditions, Razer Mechanical Switches are perfectly tuned to the specific needs of gamers. Featuring optimized actuation points and a durability that surpasses the competition, these impressive switches enable you to execute your commands faster than before, for even longer.</p>
+                <h3>Cyber Acoustics CA-3908 2.1-CH Powered Speakers</h3>
+                <p> <strong>Speaker System with Control Pod </strong>The CA-3908's subwoofer has a peak power of 92 watts, making it the most powerful in our collection, creating a deep audible experience for gaming, PC, TV, or music.The CA-3908 satellites are magnetically-shielded with two-way 2 inch high efficiency drivers, providing crisp, clean stereo separation.</p>
                 <h3>Price</h3>
                 <ul>
-                    <li><h4>RM339</h4></li>
-                     <a href="#"><img src="Product1.aspx Files/Razer img/BUY NOW.png" alt=""></a>
+                    <li><h4>RM280</h4></li>
+                     <a href="#"><img src="Product1.aspx Files/Product8 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
 
@@ -289,22 +287,22 @@
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g1.jpg"" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product8 img/g1.png"" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g2.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product8 img/g2.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g3.jpg" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product8 img/g3.png" alt="">
                 </a>
             </div>
 
             <div class="col-sm-3 col-xs-6">
-                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Razer img/g4.png" alt="">
+                    <img class="img-responsive portfolio-item" src="Product1.aspx Files/Product8 img/g4.png" alt="">
                 </a>
             </div>
 
