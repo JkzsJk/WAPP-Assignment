@@ -79,11 +79,11 @@
 					<div class="col-md-6 fadein scaleInv anim_1">
                     <br />
 						<div class="fadein scaleInv anim_2">
-							<h1 class="carouselText1 animated fadeInLeftBig">ERGONOMIC WRIST REST  <span class="colortext">FOR EXTENDED GAMING COMFORT.</span></h1>
+							<h1 class="carouselText1 animated fadeInLeftBig">SOUNDSCAPE CRAFTED  <span class="colortext">FOR EXTRA COMFORT AND PRO GAMING EXPERIENCE.</span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeftBig">
-								Unleash the true potential of your keyboard's lighting system with the Advanced Chroma Configurator.
+								Perfectly reproduces in-game audio so you hear every bullet, spell, footstep and environmental cue exactly as the game developers intended.
 							</p>
 						</div>							
 						
@@ -323,7 +323,7 @@
 </div>
    <br /><br />
     <div class="form-group">
-      <label for="inputEmail" class="col-lg-2 control-label">Email</label>
+      <label for="inputEmail" c
       <div class="col-lg-10">
         <asp:TextBox ID="txtName" runat="server"  CssClass="form-control"></asp:TextBox>       
       </div>
@@ -341,7 +341,7 @@
      <br />
     <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
-        <button type="reset" class="btn btn-default">Reset</button>
+        <button type="reset" class="btn btn-default">Reset type="reset" class="btn btn-default">Reset</button>
         <button type="submit" class="btn btn-primary" onclick="alert('Your feedback has been received. Thanks for letting us know your thoughts & we will improve on it.')">Submit</button>
       </div>
     </div>
