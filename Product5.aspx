@@ -312,7 +312,7 @@
         <hr>
         </div>
 </section>
-    <section id="contact">
+     <section id="contact">
 <div class="container">
 <div class="row">
 <form class="form-horizontal">
@@ -323,7 +323,7 @@
 </div>
    <br /><br />
     <div class="form-group">
-      <label for="inputEmail" c
+      <label for="inputEmail" class="col-lg-2 control-label">Email</label>
       <div class="col-lg-10">
         <asp:TextBox ID="txtName" runat="server"  CssClass="form-control"></asp:TextBox>       
       </div>
@@ -341,7 +341,7 @@
      <br />
     <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
-        <button type="reset" class="btn btn-default">Reset type="reset" class="btn btn-default">Reset</button>
+        <button type="reset" class="btn btn-default">Reset</button>
         <button type="submit" class="btn btn-primary" onclick="alert('Your feedback has been received. Thanks for letting us know your thoughts & we will improve on it.')">Submit</button>
       </div>
     </div>
