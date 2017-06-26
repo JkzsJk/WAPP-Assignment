@@ -38,7 +38,7 @@ public partial class Registration : System.Web.UI.Page
                 cmd1.Parameters.AddWithValue("@address", TextBox3.Text);
                 cmd1.Parameters.AddWithValue("@gender", RadioButtonList1.SelectedValue);
                 cmd1.Parameters.AddWithValue("@country", DropDownList1.SelectedItem.ToString());
-                cmd1.Parameters["@Position"].Value = "Customer";
+                cmd1.Parameters.AddWithValue("@position", ("Customer"));
                 cmd1.ExecuteNonQuery();
                 Response.Redirect("Home.aspx");
             }
