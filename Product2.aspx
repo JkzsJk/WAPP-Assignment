@@ -1,4 +1,4 @@
-﻿<<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Product1 - Copy.aspx.cs" Inherits="preview_dotnet_templates_portfolio_item_index" EnableEventValidation="false" %>
+﻿<<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Product2.aspx.cs" Inherits="preview_dotnet_templates_portfolio_item_index" EnableEventValidation="false" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
