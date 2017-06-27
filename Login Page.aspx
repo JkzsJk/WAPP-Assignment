@@ -92,6 +92,10 @@
             </tr>
         </table>
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:userdatabase %>" SelectCommand="SELECT * FROM [Users]"></asp:SqlDataSource>
+        
+        <a href="ForgetPassword.aspx">Forget password? Click here</a>
+        
+        
     </form>
 </body>
 </html>
