@@ -115,10 +115,10 @@
             </tr>
             <tr>
                 <td class="auto-style2">
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Update" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Update" OnClientClick="alert('Product has been successfully updated, redirecting you back to Home page.')"/>
                 </td>
                 <td>
-                    <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Delete" />
+                    <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Delete" OnClientClick="alert('Product has been successfully deleted, redirecting you back to Home page.')" />
                 </td>
             </tr>
         </table>
