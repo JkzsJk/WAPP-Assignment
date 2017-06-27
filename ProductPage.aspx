@@ -47,7 +47,7 @@
             <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a class="page-scroll" href="#home">Home</a>
                 </li>
-                <li><a class="page-scroll" href="#product">Products</a>
+                <li><a class="page-scroll" href="#product">Founder</a>
                 </li>
                 <li><a class="page-scroll" href="#gallery">Gallery</a>
                 </li>
@@ -195,11 +195,11 @@
                         <h4>
                             Categories</h4>
                         <ul class="categories">
-                            <li><a href="#">Headset/ Headphone</a></li>
-                            <li><a href="#">Mousepad</a></li>
-                            <li><a href="#">Speaker</a></li>
-                            <li><a href="#">Gaming Controller</a></li>
-                            <li><a href="#">Keyboard</a></li>
+                            <li><a href="#bottom">Headset/ Headphone</a></li>
+                            <li><a href="#bottom">Mousepad</a></li>
+                            <li><a href="#bottom">Speaker</a></li>
+                            <li><a href="#bottom">Gaming Controller</a></li>
+                            <li><a href="#bottom">Keyboard</a></li>
                         </ul>
                     </div>
                     <div class="wowwidget">
@@ -215,12 +215,12 @@
                                         <li>
                                             <div class="tabbedwidget">
                                                 <a href="#">
-                                                    <asp:Image ID="Image5" ImageUrl="ProductPage.aspx Files/img/01.jpg"
+                                                    <asp:Image ID="Image5" ImageUrl="ProductPage.aspx Files/img/headset.jpg"
                                                         runat="server" />
                                                 </a>
                                             </div>
                                             <div class="post-info">
-                                                <a href="#">All Mobiles</a>
+                                                <a href="#">Gaming Headset</a>
                                                 <div class="post-meta">
                                                     Dec 12, 2013
                                                 </div>
@@ -243,12 +243,12 @@
                                         <li>
                                             <div class="tabbedwidget">
                                                 <a href="#">
-                                                    <asp:Image ID="Image7" ImageUrl="ProductPage.aspx Files/img/01.jpg"
+                                                    <asp:Image ID="Image7" ImageUrl="ProductPage.aspx Files/img/mouse.jpg"
                                                         runat="server" />
                                                 </a>
                                             </div>
                                             <div class="post-info">
-                                                <a href="#">Asus Mobiles</a>
+                                                <a href="#">Steelseries mouse</a>
                                                 <div class="post-meta">
                                                     Sep 28, 2014
                                                 </div>
@@ -261,12 +261,12 @@
                                         <li>
                                             <div class="tabbedwidget">
                                                 <a href="#">
-                                                    <asp:Image ID="Image8" ImageUrl="ProductPage.aspx Files/img/01.jpg"
+                                                    <asp:Image ID="Image8" ImageUrl="ProductPage.aspx Files/img/assassin.png"
                                                         runat="server" />
                                                 </a>
                                             </div>
                                             <div class="post-info">
-                                                <a href="#">Electronics</a>
+                                                <a href="#">New game release!</a>
                                                 <div class="post-meta">
                                                     Jan 10, 2014
                                                 </div>
@@ -275,12 +275,12 @@
                                         <li>
                                             <div class="tabbedwidget">
                                                 <a href="#">
-                                                    <asp:Image ID="Image9" ImageUrl="ProductPage.aspx Files/img/01.jpg"
+                                                    <asp:Image ID="Image9" ImageUrl="ProductPage.aspx Files/img/controller.jpg"
                                                         runat="server" />
                                                 </a>
                                             </div>
                                             <div class="post-info">
-                                                <a href="#">All Clothing</a>
+                                                <a href="#">Steelseries Nimbus</a>
                                                 <div class="post-meta">
                                                     Feb 13, 2014
                                                 </div>
@@ -289,12 +289,12 @@
                                         <li>
                                             <div class="tabbedwidget">
                                                 <a href="#">
-                                                    <asp:Image ID="Image10" ImageUrl="ProductPage.aspx Files/img/01.jpg"
+                                                    <asp:Image ID="Image10" ImageUrl="ProductPage.aspx Files/img/keyboard2.jpg"
                                                         runat="server" />
                                                 </a>
                                             </div>
                                             <div class="post-info">
-                                                <a href="#">Men & Women</a>
+                                                <a href="#">Razer new keyboard release!</a>
                                                 <div class="post-meta">
                                                     Aug 25, 2014
                                                 </div>
@@ -341,7 +341,7 @@
                 <div class="container">
                     <div class="row">
                         <h1>
-                            Product</h1>
+                            Founder</h1>
                     </div>
                 </div>
             </div>
@@ -354,19 +354,41 @@
                 <div class="col-md-4 text-center">
                     <div class="panel panel-danger panel-pricing">
                         <div class="panel-heading">
+                            <asp:Image ID="Image13" runat="server" ImageUrl="~/ProductPage.aspx Files/img/jason.jpg" />
                             <i class="fa fa-desktop"></i>
-                            <h3>Plan 1</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p><strong>$100 / Month</strong></p>
+                            <p><strong>CEO</strong></p>
                         </div>
                         <ul class="list-group text-center">
-                            <li class="list-group-item"><i class="fa fa-check"></i> Personal use</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> 27/7 support</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> KUALA LUMPUR</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> Chief Executive Officer</li>
+                           
                         </ul>
                         <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-danger" href="#">BUY NOW!</a>
+                            <a class="btn btn-lg btn-block btn-danger" href="#">CONTACT</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /item -->
+
+                <!-- item -->
+               <div class="col-md-4 text-center">
+                    <div class="panel panel-danger panel-pricing">
+                        <div class="panel-heading">
+                            <asp:Image ID="Image14" runat="server" ImageUrl="~/ProductPage.aspx Files/img/aaron.jpg" />
+                            <i class="fa fa-desktop"></i>
+                        </div>
+                        <div class="panel-body text-center">
+                            <p><strong>COO</strong></p>
+                        </div>
+                        <ul class="list-group text-center">
+                            <li class="list-group-item"><i class="fa fa-check"></i> KUALA LUMPUR</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> Chief Operating Officer</li>
+                           
+                        </ul>
+                        <div class="panel-footer">
+                            <a class="btn btn-lg btn-block btn-danger" href="#">CONTACT</a>
                         </div>
                     </div>
                 </div>
@@ -374,43 +396,41 @@
 
                 <!-- item -->
                 <div class="col-md-4 text-center">
-                    <div class="panel panel-warning panel-pricing">
+                    <div class="panel panel-danger panel-pricing">
                         <div class="panel-heading">
+                            <asp:Image ID="Image15" runat="server" ImageUrl="~/ProductPage.aspx Files/img/derrick.jpg" />
                             <i class="fa fa-desktop"></i>
-                            <h3>Plan 2</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p><strong>$200 / Month</strong></p>
+                            <p><strong>CFO</strong></p>
                         </div>
                         <ul class="list-group text-center">
-                            <li class="list-group-item"><i class="fa fa-check"></i> Personal use</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> 27/7 support</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> KUALA LUMPUR</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> Chief Financial Officer</li>
+                           
                         </ul>
                         <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-warning" href="#">BUY NOW!</a>
+                            <a class="btn btn-lg btn-block btn-danger" href="#">CONTACT</a>
                         </div>
                     </div>
                 </div>
-                <!-- /item -->
 
-                <!-- item -->
                 <div class="col-md-4 text-center">
-                    <div class="panel panel-success panel-pricing">
+                    <div class="panel panel-danger panel-pricing">
                         <div class="panel-heading">
+                            <asp:Image ID="Image16" runat="server" ImageUrl="~/ProductPage.aspx Files/img/mason.jpg" />
                             <i class="fa fa-desktop"></i>
-                            <h3>Plan 3</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p><strong>$300 / Month</strong></p>
+                            <p><strong>CMO</strong></p>
                         </div>
                         <ul class="list-group text-center">
-                            <li class="list-group-item"><i class="fa fa-check"></i> Personal use</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="fa fa-check"></i> 27/7 support</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> PERAK</li>
+                            <li class="list-group-item"><i class="fa fa-check"></i> Chief Marketing Officer</li>
+                           
                         </ul>
                         <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-success" href="#">BUY NOW!</a>
+                            <a class="btn btn-lg btn-block btn-danger" href="#">CONTACT</a>
                         </div>
                     </div>
                 </div>
@@ -422,6 +442,7 @@
             <!-- /Plans -->
             <br />
             <br />
+            <a name="bottom"></a>
             <div id="gallery">
             </div>
             <div class="page-header">
@@ -434,10 +455,10 @@
             <div class="row">
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="ProductPage.aspx Files/img/headset.png" alt="">
+                        <img class="img-responsive" src="ProductPage.aspx Files/img/headset.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Headset/ Headphone</a>
+                        <a href="#">SteelSeries Siberia 350</a>
                     </h3>
                     <p>
                         What is more excited to have a high quality gaming headset/ headphone while playing games? Great gaming experience like real life environment if you have a nice quality headset.</p>
@@ -447,7 +468,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/Mousepad.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Mousepad</a>
+                        <a href="#">Steelseries QcK Prism</a>
                     </h3>
                     <p>
                         Designed to provide a smooth, consistent, and durable surface, cloth mouse pads are highly preferred by gamers requiring pin-point accuracy with little friction. Most FPS professionals prefer large cloth surfaces, as they make large sweeping motions with low DPI mice.</p>
@@ -457,7 +478,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/speaker.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Speaker</a>
+                        <a href="#">Cyber Acoustics CA-3908</a>
                     </h3>
                     <p>
                         Easily one of the most popular 2.1 speaker systems available, the Cyber Acoustics is a solid choice for PC gaming. The included control pod makes it easy to make volume adjustments and the speakers produce balanced sound.</p>
@@ -465,13 +486,24 @@
             </div>
             <!-- /.row -->
             <!-- Projects Row -->
+            
             <div class="row">
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
                          <img class="img-responsive" src="ProductPage.aspx Files/img/controller.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Gaming Controller</a>
+                        <a href="#">Gaming Steelseries Nimbus</a>
+                    </h3>
+                    <p>
+                       Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
+                </div>
+                     <div class="col-md-4 portfolio-item">
+                    <a href="#">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/keyboard2.jpg" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">HERMES RGB Mechanical Gaming Keyboard</a>
                     </h3>
                     <p>
                        Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
@@ -481,23 +513,36 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/keyboard.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Keyboard</a>
+                        <a href="#">Razer BlackWidow V2 Chroma</a>
                     </h3>
                     <p>
                         A gaming keypad is a small, auxiliary keyboard designed only for gaming. It has a limited number of the original keys from a standard keyboard, and they are arranged in a more ergonomic fashion to facilitate quick and efficient gaming key presses. The commonly used keys for gaming on a computer are the 'W', 'A', 'S', 'D', and the keys close and adjacent to these keys.</p>
                 </div>
                 <div class="col-md-4 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="ProductPage.aspx Files/img/wheel.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Project Name</a>
+                        <a href="#">Logitech G G29 Driving Force Steering Wheel</a>
                     </h3>
                     <p>
                         So whether you are shopping for your wife’s birthday gift or looking for a new suit
                         to wear for that important meeting you know what to do.</p>
                 </div>
+                 <div class="row">
+                <div class="col-md-4 portfolio-item">
+                    <a href="#">
+                         <img class="img-responsive" src="ProductPage.aspx Files/img/mouse.jpg" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Sensei RAW Illuminated 7-Button Laser Gaming Mouse</a>
+                    </h3>
+                    <p>
+                       Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
+                </div>
+
             </div>
+            
             <br />
             <br />
             <div class="well">
