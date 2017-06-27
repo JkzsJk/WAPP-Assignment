@@ -21,8 +21,7 @@ public partial class AdminUpdateandRemoveProduct : System.Web.UI.Page
             da.Fill(dt);
             ddlProductname.DataSource = dt;
             ddlProductname.DataTextField = "ProductName";
-            ddlCategory.DataSource = dt;
-            ddlCategory.DataTextField = "Category";
+
 
             DataBind();
 
@@ -37,15 +36,18 @@ public partial class AdminUpdateandRemoveProduct : System.Web.UI.Page
         SqlDataAdapter da = new SqlDataAdapter("select * from ProductTable where ProductName='" + ddlProductname.Text + "'", con);
         DataTable dt = new DataTable();
         da.Fill(dt);
+        string id = dt.Rows[0][0].ToString();
         TextBox1.Text = dt.Rows[0][2].ToString();
         TextBox2.Text = dt.Rows[0][3].ToString();
-        ddlCategory.Text = dt.Rows[0][4].ToString();
+        Label7.Text = dt.Rows[0][4].ToString();
+        Image1.ImageUrl = "ImageHandler.ashx?ID=" + id;
+        
     }
 
     protected void Button1_Click(object sender, EventArgs e)
     {
         con.Open();
-        string query = "update ProductTable set vendor ='" + TextBox1.Text + "', Pricing ='" + TextBox2.Text + "', Category ='" + ddlCategory.Text + "' where ProductName = '" + ddlProductname.Text + "'";
+        string query = "update ProductTable set vendor ='" + TextBox1.Text + "', Pricing ='" + TextBox2.Text + "', Category ='" + Label7.Text + "' where ProductName = '" + ddlProductname.Text + "'";
         SqlCommand cmd = new SqlCommand(query, con);
         cmd.ExecuteNonQuery();
         con.Close();
@@ -61,4 +63,6 @@ public partial class AdminUpdateandRemoveProduct : System.Web.UI.Page
         con.Close();
         Response.Redirect("Home.aspx");
     }
+
+    
 }
