@@ -272,7 +272,7 @@
                 <h3>Price</h3>
                 <ul>
                     <li><h4>RM160</h4></li>
-                     <a href="#"><img src="Product1.aspx Files/Product7 img/BUY NOW.png" alt=""></a>
+                     <a href="CheckOut.aspx"><img src="Product1.aspx Files/Product7 img/BUY NOW.png" alt=""></a>
                 </ul>
             </div>
 
