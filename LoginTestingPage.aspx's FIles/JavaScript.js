@@ -15,6 +15,7 @@
 	// Login Form
 	//----------------------------------------------
 	// Validation
+
   $("#login-form").validate({
   	rules: {
       lg_username: "required",

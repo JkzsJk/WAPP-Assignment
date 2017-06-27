@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -11,4 +13,27 @@ public partial class LoginTestingPage : System.Web.UI.Page
     {
 
     }
+
+    SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["userdatabase"].ConnectionString);
+    con.Open();
+        SqlCommand cmd = new SqlCommand("select count(*) from Users where Username = '" + TextBox1.Text + "' and Password = '" + TextBox2.Text + "'", con);
+    int count = Convert.ToInt32(cmd.ExecuteScalar().ToString());
+        if (count > 0)
+        {
+            SqlCommand cmdType = new SqlCommand("select Position from Users where Username = '" + TextBox1.Text + "'", con);
+    string type = cmdType.ExecuteScalar().ToString().Replace(" ", "");
+    Session["Position"] = type;
+            if (type == "Admin")
+                Response.Redirect("AdminOnlyPage.aspx");
+            else if (type == "Customer")
+                Response.Redirect("CustomerOnlyPage.aspx");
+        }
+        else
+        {
+            this.Label4.ForeColor = System.Drawing.Color.Red;
+            this.Label4.Text = "Login Failed!";
+            return;
+        }
+con.Close();
+
 }
