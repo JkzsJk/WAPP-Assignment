@@ -45,7 +45,7 @@
             <ul class="nav navbar-nav navbar-right">
                 
                 <li class="active">
-							<a class="page-scroll" href="/Home.aspx">HOME</a>
+							<a class="page-scroll" href="Home.aspx">HOME</a>
 						</li>
 						<li>
 							<a class="page-scroll" href="#about">ABOUT</a>
