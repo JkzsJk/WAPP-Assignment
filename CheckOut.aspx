@@ -8,6 +8,30 @@
 </head>
 <body>
 
+    <script src="Registration.aspx Files/js/jquery.js" type="text/javascript"></script>
+    <script src="Registration.aspx Files/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="Registration.aspx Files/js/jquery.backstretch.js" type="text/javascript"></script>
+        <script type="text/javascript"> 
+            'use strict';
+
+            /* ========================== */
+            /* ::::::: Backstrech ::::::: */
+            /* ========================== */
+            // You may also attach Backstretch to a block-level element
+            $.backstretch(
+                [
+                    "Registration.aspx Files/img/44.jpg",
+                    "Registration.aspx Files/img/34.jpg",
+                    "Registration.aspx Files/img/images.jpg"
+                ],
+
+                {
+                    duration: 4500,
+                    fade: 1500
+                }
+            );
+        </script>
+
     <script language="JavaScript">
 <!-- hide contents from old browsers
 
@@ -101,7 +125,7 @@
 
     
  
-<form method="post" name="orderform" action="mailto:me@mydomain.com" enctype="text/plain" style="width: 639px; height: 1710px" id="tq">
+<form method="post" name="orderform" action="mailto:jamd@jamdperipherals.com" enctype="text/plain" style="width: 639px; height: 1710px" id="tq">
 <table border="0">
     <tr><td colspan="4" style="width: 200px">
 <p><input type="checkbox" name="Item1" value="Item1_chosen" onclick="tally()" style="width: 27px"> Razer's BlackWidow Chroma V2 ($339)
