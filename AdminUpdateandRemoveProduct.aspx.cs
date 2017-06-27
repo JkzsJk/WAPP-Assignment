@@ -64,5 +64,10 @@ public partial class AdminUpdateandRemoveProduct : System.Web.UI.Page
         Response.Redirect("Home.aspx");
     }
 
-    
+
+
+    protected void Button3_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("AddProduct.aspx");
+    }
 }

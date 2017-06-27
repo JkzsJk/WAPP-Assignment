@@ -458,7 +458,7 @@
                         <img class="img-responsive" src="ProductPage.aspx Files/img/headset.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">SteelSeries Siberia 350</a>
+                        <a href="Product5.aspx">SteelSeries Siberia 350</a>
                     </h3>
                     <p>
                         What is more excited to have a high quality gaming headset/ headphone while playing games? Great gaming experience like real life environment if you have a nice quality headset.</p>
@@ -468,7 +468,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/Mousepad.png" alt="">
                     </a>
                     <h3>
-                        <a href="#">Steelseries QcK Prism</a>
+                        <a href="Product6.aspx">Steelseries QcK Prism</a>
                     </h3>
                     <p>
                         Designed to provide a smooth, consistent, and durable surface, cloth mouse pads are highly preferred by gamers requiring pin-point accuracy with little friction. Most FPS professionals prefer large cloth surfaces, as they make large sweeping motions with low DPI mice.</p>
@@ -478,7 +478,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/speaker.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Cyber Acoustics CA-3908</a>
+                        <a href="Product8.aspx">Cyber Acoustics CA-3908</a>
                     </h3>
                     <p>
                         Easily one of the most popular 2.1 speaker systems available, the Cyber Acoustics is a solid choice for PC gaming. The included control pod makes it easy to make volume adjustments and the speakers produce balanced sound.</p>
@@ -493,7 +493,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/controller.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Gaming Steelseries Nimbus</a>
+                        <a href="Product7.aspx">Gaming Steelseries Nimbus</a>
                     </h3>
                     <p>
                        Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
@@ -503,7 +503,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/keyboard2.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">HERMES RGB Mechanical Gaming Keyboard</a>
+                        <a href="Product3.aspx">HERMES RGB Mechanical Gaming Keyboard</a>
                     </h3>
                     <p>
                        Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
@@ -513,7 +513,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/keyboard.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Razer BlackWidow V2 Chroma</a>
+                        <a href="Product1.aspx">Razer BlackWidow V2 Chroma</a>
                     </h3>
                     <p>
                         A gaming keypad is a small, auxiliary keyboard designed only for gaming. It has a limited number of the original keys from a standard keyboard, and they are arranged in a more ergonomic fashion to facilitate quick and efficient gaming key presses. The commonly used keys for gaming on a computer are the 'W', 'A', 'S', 'D', and the keys close and adjacent to these keys.</p>
@@ -523,7 +523,7 @@
                         <img class="img-responsive" src="ProductPage.aspx Files/img/wheel.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Logitech G G29 Driving Force Steering Wheel</a>
+                        <a href="Product4.aspx">Logitech G G29 Driving Force Steering Wheel</a>
                     </h3>
                     <p>
                         So whether you are shopping for your wife’s birthday gift or looking for a new suit
@@ -535,7 +535,7 @@
                          <img class="img-responsive" src="ProductPage.aspx Files/img/mouse.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Sensei RAW Illuminated 7-Button Laser Gaming Mouse</a>
+                        <a href="Product2.aspx">Sensei RAW Illuminated 7-Button Laser Gaming Mouse</a>
                     </h3>
                     <p>
                        Play over 2000 of your favorite full controller supported games through your Steam account with the a high quality ergonomic Wireless Gaming Controller for Windows and Android™.</p>
@@ -645,7 +645,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<p class="pull-left">
-						 &copy; Copyright 2014 aspxtemplates.com
+						 &copy; Copyright 2014 JAM'D Peripherals
 					</p>
 				</div>
 				<div class="col-md-8">

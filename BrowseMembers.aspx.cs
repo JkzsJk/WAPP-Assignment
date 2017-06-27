@@ -26,4 +26,9 @@ public partial class BrowseMembers : System.Web.UI.Page
     {
         GridView1.DataBind();
     }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("AddProduct.aspx");
+    }
 }

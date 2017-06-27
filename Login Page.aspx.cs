@@ -38,4 +38,9 @@ public partial class Login_Page :  System.Web.UI.Page
         }
         con.Close();
     }
+
+    protected void Button2_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Home.aspx");
+    }
 }
