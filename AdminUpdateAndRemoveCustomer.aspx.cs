@@ -20,7 +20,8 @@ public partial class AdminUpdateAndRemoveCustomer : System.Web.UI.Page
             da.Fill(dt);
             DropDownList2.DataSource = dt;
             DropDownList2.DataTextField = "ProductName";
-
+            DropDownList1.DataSource = dt;
+            DropDownList1.DataTextField = "Category";
             DataBind();
         }
     }
@@ -38,7 +39,7 @@ public partial class AdminUpdateAndRemoveCustomer : System.Web.UI.Page
     protected void Button1_Click(object sender, EventArgs e)
     {
         con.Open();
-        string query = "update ProductTable set Vendor ='" + TextBox5.Text + "',Pricing ='" + TextBox6.Text + "',Category'" + DropDownList1.SelectedValue + "',ProductName'" + DropDownList2.SelectedValue;
+        string query = "update ProductTable set Vendor ='" + TextBox5.Text + "',Pricing ='" + TextBox6.Text + "',Category'" + DropDownList1.SelectedValue + "' where ProductName ='" + DropDownList2.SelectedValue + "'";
         SqlCommand cmd = new SqlCommand(query, con);
         cmd.ExecuteNonQuery();
         con.Close();
