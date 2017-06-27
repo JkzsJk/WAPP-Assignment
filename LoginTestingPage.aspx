@@ -28,8 +28,8 @@
 						<label for="lg_remember">remember</label>
 					</div>
 				</div>
-				<button type="submit" class="login-button"><i class="fa fa-chevron-right"></i></button>
-			</div>
+				<button type="submit" class="login-button" onclick="alert('Login successful, redirecting you to our Product Page.')"><i class="fa fa-chevron-right"></i></button>
+                    </div>
 			<div class="etc-login-form">
 				<p>forgot your password? <a href="#">click here</a></p>
 				<p>new user? <a href="#">create new account</a></p>
