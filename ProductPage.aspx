@@ -40,7 +40,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">SHOPITEM</a>
+                <a class="navbar-brand page-scroll" href="#page-top">JAM'D PERIPHERAL</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
            <div class="collapse navbar-collapse navbar-menubuilder" id="bs-example-navbar-collapse-1">
@@ -75,46 +75,47 @@
 				<div class="row">
 					<div class="col-md-6 fadein scaleInv anim_1">
 						<div class="fadein scaleInv anim_2">
-							<h1 class="carouselText1 animated fadeInUpBig">Welcome to <span class="colortext">SHOPITEM</span></h1>
+							<h1 class="carouselText1 animated fadeInUpBig">Welcome to <span class="colortext">JAM'D Peripherals</span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeft">
-								 Bootstrap Template
+								 Gaming Accesories
 							</p>
 						</div>
 						<div class="fadein scaleInv anim_2">
 							<p class="carouselText3">
-								<i class="icon-ok"></i> Bootstrap 3.0, HTML5
+								<i class="icon-ok"></i> Powerful Gaming Experience
 							</p>
 						</div>
 						<div class="fadein scaleInv anim_3">
 							<p class="carouselText3">
-								<i class="icon-ok"></i> Responsive Layouts
+								<i class="icon-ok"></i> Walk in customer services
 							</p>
 						</div>
 						<div class="fadein scaleInv anim_4">
 							<p class="carouselText3">
-								<i class="icon-ok"></i> Beautiful Animation Effects
+								<i class="icon-ok"></i> Best Price in town
 							</p>
 						</div>
 						<div class="fadein scaleInv anim_5">
 							<p class="carouselText3">
-								<i class="icon-ok"></i> Exlent Support
+								<i class="icon-ok"></i> Come with different design
 							</p>
 						</div>
 					</div>
 					<div class="col-md-6 text-center fadein scaleInv anim_2">
 						<div class="text-center">
 							<div class="fadein scaleInv anim_3">
-                                <asp:Image ID="Image1" CssClass="slide1-3 animated rollIn" ImageUrl="ProductPage.aspx Files/img/slide1-3.png" runat="server"></asp:Image>
+                                <asp:Image ID="Image1" CssClass="slide1-3 animated rollIn" ImageUrl="ProductPage.aspx Files/img/kratos.png" runat="server"></asp:Image>
+                                 <asp:Image ID="Image12" CssClass="slide1-3 animated rollIn" ImageUrl="ProductPage.aspx Files/img/assassin.png" runat="server"></asp:Image>
 								
 							</div>
 							<div class="fadein scaleInv anim_8">
-                             <asp:Image ID="Image2" CssClass="slide1-1 animated rollIn" ImageUrl="ProductPage.aspx Files/img/slide1-1.png" runat="server"></asp:Image>
+                             <asp:Image ID="Image2" CssClass="slide1-1 animated rollIn" ImageUrl="ProductPage.aspx Files/img/zelda.png" runat="server"></asp:Image>
 								
 							</div>
 							<div class="fadein scaleInv anim_5">
-                              <asp:Image ID="Image3" CssClass="slide1-2 animated rollIn" ImageUrl="ProductPage.aspx Files/img/slide1-2.png" runat="server"></asp:Image>								
+                              <asp:Image ID="Image3" CssClass="slide1-2 animated rollIn" ImageUrl="ProductPage.aspx Files/img/assassin.png" runat="server"></asp:Image>								
 							</div>
 						</div>
 					</div>
@@ -125,29 +126,29 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 animated fadeInUp notransition">
-                    <asp:Image ID="Image4" style="width:90%;" ImageUrl="ProductPage.aspx Files/img/slide1-1.png" runat="server"></asp:Image>
+                    <asp:Image ID="Image4" style="width:90%;" ImageUrl="ProductPage.aspx Files/img/zelda.jpg" runat="server"></asp:Image>
 					
 					</div>
 					<div class="col-md-6 animated fadeInDown  notransition topspace30 text-right">
 						<div class="car-highlight1 animated fadeInLeftBig">
-							 Add ANYTHING in Slider
+							 Not sure what fits your need?
 						</div>
 						<br>
 						<div class="car-highlight2 animated fadeInRightBig notransition">
-							 Powerful Options
+							 Headche about the price?
 						</div>
 						<br>
 						<div class="car-highlight3 animated fadeInUpBig notransition">
-							 Video, Audio, Text, Iframes etc
+							 Having problem choosing a product?
 						</div>
 						<br>
 						<div class="car-highlight4 animated flipInX notransition">
-							 Any HTML5 code you wish
+							 No worries!
 						</div>
 						<br>
 						<div class="car-highlight5 animated rollIn notransition">
 							 Slider with <span class="font100">Total Control</span><br>
-							<span class="font100" style="font-size:20px;">Embed Practically</span> Anything<br>
+							<span class="font100" style="font-size:20px;">We have the best</span>professional customer service to help you!<br>
 						</div>
 					</div>
 				</div>
@@ -160,18 +161,18 @@
 						<br>
 						<br>
 						<div class="animated fadeInDownBig notransition">
-							<span class="car-largetext">Vivid Skins <span class="font300">&amp; Three</span> Layouts</span><br>
+							<span class="car-largetext">Easy purchase <span class="font300">&amp; Three</span> Process</span><br>
 						</div>
 						<br>
 						<br>
 						<div class="car-widecircle animated fadeInLeftBig notransition">
-							<span>Wide</span>
+							<span>Buy</span>
 						</div>
 						<div class="car-middlecircle animated fadeInUpBig notransition">
-							<span>Boxed</span>
+							<span>Payment</span>
 						</div>
 						<div class="car-smallcircle animated fadeInRightBig notransition">
-							<span>Narrow</span>
+							<span>Received</span>
 						</div>
 					</div>
 				</div>
@@ -313,13 +314,11 @@
                     <div class="intro-note topspace10">
                         <div class="col-md-12 text-center">
                             <h1>
-                                Introducing <span class="colortext">SHOPITEM</span>, powerful HTML5 template</h1>
+                                Welcome to <span class="colortext">JAM'D PERIPHERALS</span>, Largest game house in town!</h1>
                             <p>
-                                Highly-professional & modern website template created for you and your business
-                                prosperity.
+                                Highly-professional staff that will guide you when you step in our shop or call us.
                                 <br />
-                                Calypso has all the flexibility and features needed for building a top-notch business
-                                website.
+                                We have the 5 rated reputation stars from TIME megazine! 100% satisfaction customer services and products!
                             </p>
                         </div>
                     </div>
@@ -547,12 +546,12 @@
 		<div class="container animated fadeInUpNow notransition">
 			<div class="row">
 				<div class="col-md-3">
-					<h1 class="footerbrand">SHOPITEM</h1>
+					<h1 class="footerbrand">JAM'D Peripherals</h1>
 					<p>
-						 Introducing a HTML5 & CSS3 template for Onepage use.
+						 Introducing one of the largest gaming peripherals store!
 					</p>
 					<p>
-						 Three awesome layouts, beautiful modern design, lots of features and skins.
+						 Awesome accessories and gaming devices!
 					</p>
 					
 				</div>
@@ -560,7 +559,7 @@
 					<h1 class="title"><span class="colortext">F</span>ind <span class="font100">Us</span></h1>
 					<div class="footermap">
 						<p>
-							<strong>Address: </strong> No.20 - 12546 Inc Shopitem
+							<strong>Address: </strong> No.20 - 12546 Inc JAM'D Peripherals!
 						</p>
 						<p>
 							<strong>Phone: </strong> + 5 (125) 145 541
@@ -569,7 +568,7 @@
 							<strong>Fax: </strong> + 6 (245) 541 258
 						</p>
 						<p>
-							<strong>Email: </strong> shopitem@gmail.com
+							<strong>Email: </strong> JAMD@gmail.com
 						</p>
 						
 					</div>
