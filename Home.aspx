@@ -1,4 +1,4 @@
-﻿<%--<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>--%>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Home.aspx.cs" Inherits="Home" %>
 
 <!DOCTYPE html>
 
@@ -42,22 +42,22 @@
                 <a href="#top" onclick = $("#menu-close").click(); >Home</a>
             </li>
             <li>
+                <a href="ProductPage.aspx" onclick = $("#menu-close").click(); >Products</a>
+            </li>
+            <li>
                 <a href="#about" onclick = $("#menu-close").click(); >About</a>
             </li>
             <li>
                 <a href="#services" onclick = $("#menu-close").click(); >Services</a>
             </li>
             <li>
-                <a href="/Registration.aspx" onclick = $("#menu-close").click(); target="_blank" >Customer Registration</a>
+                <a href="#contact" onclick = $("#menu-close").click(); >Contact Us</a>
             </li>
             <li>
-                <a href="#portfolio" onclick = $("#menu-close").click(); >Our Brands</a>
+                <a href="Registration.aspx" onclick = $("#menu-close").click(); target="_blank" >Customer Registration</a>
             </li>
             <li>
-                <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
-            </li>
-            <li>
-                <a href="#loginTBD" onclick = $("#menu-close").click(); target="_blank" >Login</a>
+                <a href="Login Page.aspx" onclick = $("#menu-close").click(); target="_blank" >Login</a>
             </li>
         </ul>
     </nav>
