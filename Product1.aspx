@@ -48,15 +48,15 @@
 							<a class="page-scroll" href="Home.aspx">HOME</a>
 						</li>
 						<li>
-							<a class="page-scroll" href="#about">ABOUT</a>
+							<a class="page-scroll" href="#about">ABOUT PRODUCT</a>
 						</li>
 						
 						<li>
-							<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+							<a class="page-scroll" href="#portfolio">DESCRIPTION</a>
 						</li>
 						
 						<li>
-							<a class="page-scroll" href="#contact">CONTACT US</a>
+							<a class="page-scroll" href="#contact">COMMENTS</a>
 						</li>
               </ul>
         </div>
