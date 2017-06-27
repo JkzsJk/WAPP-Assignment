@@ -26,9 +26,9 @@ public partial class Login_Page :  System.Web.UI.Page
             string type = cmdType.ExecuteScalar().ToString().Replace(" ", "");
             Session["Position"] = type;
             if (type == "Admin")
-                Response.Redirect("AdminOnlyPage.aspx");
+                Response.Redirect("AddProduct.aspx");
             else if (type == "Customer")
-                Response.Redirect("CustomerOnlyPage.aspx");
+                Response.Redirect("ProductPage.aspx");
         }
         else
         {
