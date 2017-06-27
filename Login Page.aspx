@@ -13,7 +13,7 @@
             width: 352px;
         }
         .auto-style3 {
-            width: 533px;
+            width: 399px;
         }
         .auto-style4 {
             width: 523px;
@@ -22,9 +22,30 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-    </div>
+    <script src="Registration.aspx Files/js/jquery.js" type="text/javascript"></script>
+    <script src="Registration.aspx Files/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="Registration.aspx Files/js/jquery.backstretch.js" type="text/javascript"></script>
+        <script type="text/javascript"> 
+            'use strict';
+
+            /* ========================== */
+            /* ::::::: Backstrech ::::::: */
+            /* ========================== */
+            // You may also attach Backstretch to a block-level element
+            $.backstretch(
+                [
+                    "Registration.aspx Files/img/44.jpg",
+                    "Registration.aspx Files/img/colorful.jpg",
+                    "Registration.aspx Files/img/34.jpg",
+                    "Registration.aspx Files/img/images.jpg"
+                ],
+
+                {
+                    duration: 4500,
+                    fade: 1500
+                }
+            );
+        </script>
         <asp:Label ID="Label1" runat="server" Text="Login Page"></asp:Label>
         <table class="auto-style1">
             <tr>

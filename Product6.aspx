@@ -44,19 +44,19 @@
            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 
-                        <li>
-							<a href="/Home.aspx" target="_blank">HOME</a>
+                        <li class="active">
+							<a class="page-scroll" href="Home.aspx" target="_blank">HOME</a>
 						</li>
 						<li>
-							<a class="page-scroll active>" href="#about">ABOUT</a> <!--THE ACTIVE IN CLASS NEEDS TO BE CHECKED ON, DO NOT FORGET!-->
-						</li>
-						
-						<li>
-							<a class="page-scroll active" href="#portfolio">PORTFOLIO</a><!--THE ACTIVE IN CLASS NEEDS TO BE CHECKED ON, DO NOT FORGET!-->
+							<a class="page-scroll" href="#about">ABOUT</a>
 						</li>
 						
 						<li>
-							<a class="page-scroll active" href="#contact">CONTACT US</a><!--THE ACTIVE IN CLASS NEEDS TO BE CHECKED ON, DO NOT FORGET!-->
+							<a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+						</li>
+						
+						<li>
+							<a class="page-scroll" href="#contact">CONTACT US</a>
 						</li>
               </ul>
         </div>
