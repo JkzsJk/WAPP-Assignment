@@ -67,7 +67,7 @@
             </tr>
             <tr>
                 <td class="auto-style2">
-                    <asp:Label ID="Label3" runat="server" Text="Vendor"></asp:Label>
+                    <asp:Label ID="Label3" runat="server" Text="Vendor :"></asp:Label>
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
@@ -79,7 +79,7 @@
             </tr>
             <tr>
                 <td class="auto-style2">
-                    <asp:Label ID="Label4" runat="server" Text="Pricing"></asp:Label>
+                    <asp:Label ID="Label4" runat="server" Text="Pricing :"></asp:Label>
                 </td>
                 <td>
                     <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
@@ -91,11 +91,10 @@
             </tr>
             <tr>
                 <td class="auto-style2">
-                    <asp:Label ID="Label5" runat="server" Text="Category"></asp:Label>
+                    <asp:Label ID="Label5" runat="server" Text="Category :"></asp:Label>
                 </td>
                 <td>
-                    <asp:DropDownList ID="ddlCategory" runat="server">
-                    </asp:DropDownList>
+                    <asp:Label ID="Label7" runat="server"></asp:Label>
                 </td>
             </tr>
         </table>
@@ -107,8 +106,12 @@
         </table>
         <table class="auto-style1">
             <tr>
-                <td class="auto-style2">&nbsp;</td>
-                <td>&nbsp;</td>
+                <td class="auto-style2">
+                    <asp:Label ID="Label6" runat="server" Text="Picture :"></asp:Label>
+                </td>
+                <td>
+                    <asp:Image ID="Image1" runat="server" Height="441px" Width="601px" />
+                </td>
             </tr>
             <tr>
                 <td class="auto-style2">
