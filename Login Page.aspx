@@ -35,7 +35,6 @@
             $.backstretch(
                 [
                     "Registration.aspx Files/img/44.jpg",
-                    "Registration.aspx Files/img/colorful.jpg",
                     "Registration.aspx Files/img/34.jpg",
                     "Registration.aspx Files/img/images.jpg"
                 ],
