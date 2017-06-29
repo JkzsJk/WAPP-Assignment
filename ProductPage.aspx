@@ -75,7 +75,7 @@
 				<div class="row">
 					<div class="col-md-6 fadein scaleInv anim_1">
 						<div class="fadein scaleInv anim_2">
-							<h1 class="carouselText1 animated fadeInUpBig">Welcome to <span class="colortext">JAM'D Peripherals</span></h1>
+							<h1 class="carouselText1 animated fadeInUpBig">Welcome to <span class="colortext"><a href="Home.aspx">JAM'D Peripherals</a></span></h1>
 						</div>
 						<div class="fadein scaleInv anim_1">
 							<p class="carouselText2 animated fadeInLeft">
